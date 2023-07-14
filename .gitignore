@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.vscode/
+dataset/
+train/
+test/
+hand_model.h5
